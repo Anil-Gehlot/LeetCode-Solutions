@@ -14,6 +14,7 @@ class Solution:
                 # Remove the number from nums2 to avoid duplicate entries.
                 nums2.remove(number)
                 
+        # removing duplicate elements by typecasting
         final_list = set(final_list)
         final_list = list(final_list)
         
