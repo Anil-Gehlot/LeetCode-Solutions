@@ -5,29 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def preOrder(self, root, low, high, range_sum):
+        if root:
+            if low <= root.val <= high:
+                range_sum[0] += root.val
+            
+            self.preOrder(root.left, low, high, range_sum)
+            self.preOrder(root.right, low, high, range_sum)
+
     def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
-        
-        # Helper function for depth-first search (dfs)
-        def dfs(node):
-            # Base case: if the node is None, return 0
-            if not node:
-                return 0
-            
-            # Initialize current_val to 0
-            current_val = 0
-            
-            # Check if the node's value is within the specified range [low, high]
-            if low <= node.val <= high:
-                current_val = node.val
-            
-            # Recursively traverse the left subtree only if the node's value is greater than low
-            left_val = dfs(node.left) if node.val > low else 0
-            
-            # Recursively traverse the right subtree only if the node's value is less than high
-            right_val = dfs(node.right) if node.val < high else 0
-            
-            # Return the sum of current value, left subtree sum, and right subtree sum
-            return current_val + left_val + right_val
-        
-        # Call the dfs function with the root of the binary search tree
-        return dfs(root)
+        range_sum = [0]
+
+        self.preOrder(root, low, high, range_sum)
+
+        return range_sum[0]
