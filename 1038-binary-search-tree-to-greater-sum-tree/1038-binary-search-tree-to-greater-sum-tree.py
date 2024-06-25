@@ -4,38 +4,32 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
-    def inorderTraversal(self, root, result):
+    def inorderTraversal(self, root, result, flag):
         if root:
-            self.inorderTraversal(root.left, result)
-            result.append(root.val)
-            self.inorderTraversal(root.right, result)
+            self.inorderTraversal(root.left, result, flag)
 
-    def inorderTraversal1(self, root, result):
-        
-        if root:
-            self.inorderTraversal1(root.left, result)
-    
-            sum = 0
-            for i in range(len(result)-1, -1, -1):
+            if flag == 1:
+                sum = 0
+                for i in range(len(result)-1, -1, -1):
 
-                # print(result[i], root.val)
-                if result[i] > root.val:
-                    sum += result[i]
-                elif result[i] == root.val:
-                    sum += result[i]
-                    break
-            
-            root.val = sum
-            
-            self.inorderTraversal1(root.right, result)
+                    if result[i] > root.val:
+                        sum += result[i]
+                    elif result[i] == root.val:
+                        sum += result[i]
+                        break
+
+                root.val = sum
+            else:
+                result.append(root.val)
+                
+            self.inorderTraversal(root.right, result, flag)
 
     def bstToGst(self, root: TreeNode) -> TreeNode:
         result = []
-        self.inorderTraversal(root, result)
+        self.inorderTraversal(root, result, 0)
         
-        self.inorderTraversal1(root, result)
+        self.inorderTraversal(root, result, 1)
         return root
 
         
