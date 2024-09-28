@@ -38,3 +38,11 @@ Please note that these solutions are provided for learning and reference purpose
 If you find any issues with the solutions or have any questions, feel free to open an issue. Your feedback and suggestions are highly appreciated!
 
 Happy coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
+<!---LeetCode Topics End-->
