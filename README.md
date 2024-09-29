@@ -45,4 +45,20 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
+## Hash Table
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+## Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+## Design
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
