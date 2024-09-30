@@ -44,6 +44,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
@@ -57,8 +58,13 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
