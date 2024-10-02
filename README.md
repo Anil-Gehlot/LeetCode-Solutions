@@ -44,6 +44,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
@@ -75,4 +76,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
