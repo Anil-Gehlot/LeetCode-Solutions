@@ -72,12 +72,22 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0792-binary-search) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
