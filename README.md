@@ -46,11 +46,13 @@ Happy coding! 🚀
 | ------- |
 | [0792-binary-search](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Linked List
 |  |
 | ------- |
@@ -90,4 +92,12 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sorting
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
