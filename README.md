@@ -52,6 +52,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Linked List
 |  |
@@ -95,9 +96,18 @@ Happy coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
