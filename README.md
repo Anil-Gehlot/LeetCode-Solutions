@@ -46,6 +46,7 @@ Happy coding! 🚀
 | ------- |
 | [0792-binary-search](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1923-sentence-similarity-iii](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
@@ -97,6 +98,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -106,6 +108,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 ## Sliding Window
 |  |
 | ------- |
