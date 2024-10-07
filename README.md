@@ -72,6 +72,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Happy coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -109,6 +111,7 @@ Happy coding! 🚀
 | ------- |
 | [0567-permutation-in-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
