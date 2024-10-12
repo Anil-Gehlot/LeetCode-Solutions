@@ -48,6 +48,7 @@ Happy coding! 🚀
 | [1497-design-a-stack-with-increment-operation](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1923-sentence-similarity-iii](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -79,6 +80,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
