@@ -48,6 +48,7 @@ Happy coding! 🚀
 | [1497-design-a-stack-with-increment-operation](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1923-sentence-similarity-iii](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -126,4 +127,9 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
