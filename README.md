@@ -44,6 +44,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1923-sentence-similarity-iii](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
@@ -133,4 +134,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
