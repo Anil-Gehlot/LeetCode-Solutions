@@ -81,6 +81,7 @@ Happy coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -138,4 +139,12 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
