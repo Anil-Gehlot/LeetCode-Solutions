@@ -82,6 +82,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0441-arranging-coins](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -95,6 +96,7 @@ Happy coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Recursion
 |  |
