@@ -86,6 +86,7 @@ Happy coding! 🚀
 | [0292-nim-game](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [1260-day-of-the-year](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -124,6 +125,7 @@ Happy coding! 🚀
 | ------- |
 | [0567-permutation-in-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1260-day-of-the-year](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1923-sentence-similarity-iii](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
