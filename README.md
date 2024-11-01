@@ -126,6 +126,7 @@ Happy coding! 🚀
 | [0567-permutation-in-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1260-day-of-the-year](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1923-sentence-similarity-iii](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
