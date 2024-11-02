@@ -128,6 +128,7 @@ Happy coding! 🚀
 | [1260-day-of-the-year](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1923-sentence-similarity-iii](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [2580-circular-sentence](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
