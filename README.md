@@ -124,6 +124,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1260-day-of-the-year](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -155,4 +156,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0292-nim-game) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
