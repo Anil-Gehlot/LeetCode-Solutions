@@ -133,6 +133,7 @@ Happy coding! 🚀
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
+| [3617-find-the-original-typed-string-i](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/Anil-Gehlot/LeetCode-Solutions/tree/master/3636-check-balanced-string) |
 ## Sliding Window
 |  |
